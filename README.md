@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/838/280/non_2x/abstract-technology-digital-concept-blue-square-pattern-with-line-background-vector.jpg" alt="Tech Banner" width="1000" height="150"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kanka Oza</h1>
 <h3 align="center">Web-Enthusiast | DSA | Exploring Open-Source</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
