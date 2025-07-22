@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/72/da/8e/72da8e918336efe1313e62f05f090e08.jpg" alt="GitHub Banner" width="1000"  height="200"/>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Kanka Oza</h1>
 <h3 align="center">Web-Enthusiast | DSA | Exploring Open-Source</h3>
