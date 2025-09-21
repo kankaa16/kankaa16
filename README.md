@@ -49,9 +49,12 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=kankaa16&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stats" height="300" alt="stats graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kankaa16&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1&custom_title=Stats" height="220" alt="stats graph"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kankaa16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&order=2&custom_title=Languages%20" height="220" alt="languages graph"  />
 </div>
+
 
 
 ###
